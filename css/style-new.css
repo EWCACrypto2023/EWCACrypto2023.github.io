@@ -164,7 +164,7 @@ p {
 
 .announce {
     max-width: 80%;
-    background-color: #ff9999;
+    background-color: #FFD1D1;
     margin-left:auto; 
     margin-right:auto; 
     padding-bottom: 2%; 
@@ -297,7 +297,7 @@ p {
 
         .announce {
         max-width: 70%;
-        background-color: #ff9999;
+        background-color: #FFD1D1;
         margin-left:auto; 
         margin-right:auto; 
         padding-bottom: 2%; 
@@ -463,7 +463,7 @@ a:hover {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #002D72;
+    background-color: #7C96AB;
 }
 
 #navbar li {
@@ -480,11 +480,11 @@ a:hover {
 
 /* Change the link color to #111 (black) on hover */
 #navbar li a:hover {
-    background-color: #094cb5;
+    background-color: #BDCDD6;
 }
 
 #navbar .active {
-    background-color: #960f06;
+    background-color: #7D6E83;
 }
 
 
@@ -779,7 +779,7 @@ ul {
     bottom: 0;
     max-width: 100%;
     height: 10vw;
-    background-color: #002D72;
+    background-color: #7C96AB;
     color: white;
     text-align: center;
     vertical-align: middle;
