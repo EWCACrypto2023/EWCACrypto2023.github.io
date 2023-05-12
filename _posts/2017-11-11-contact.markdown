@@ -23,4 +23,3 @@ permalink: /contact.html
 <h4> Mingyuan Wang </h4>
 <h4> Arka Rai Choudhuri </h4>
 
-Make some edits to see if it works
