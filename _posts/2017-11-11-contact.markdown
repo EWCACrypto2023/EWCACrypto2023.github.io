@@ -14,18 +14,14 @@ permalink: /contact.html
 	<h4 style="color:#8d7698">ewca [DOT] crypto2023 [AT] gmail [DOT] com</h4> 
 </center></p>
 
-<div style="padding-bottom: 10px;"></div>
+<div style="padding-bottom: 5px;"></div>
 
 <h2> Organizers </h2>
 <div style="padding-top: 10px;"></div>
-<h4> Sruthi Sekar </h4>
-<h4> Aarushi Goel </h4>
-<h4> Mingyuan Wang </h4>
-<h4> Arka Rai Choudhuri </h4>
+<h4> Sruthi Sekar (UC Berkley)</h4>
+<h4> Aarushi Goel (NTT Research)</h4>
+<h4> Mingyuan Wang (UC Berkeley)</h4>
+<h4> Arka Rai Choudhuri (NTT Research)</h4>
+<h4> Tal Rabin (University of Pennsylvania and Algorand Foundation), Workshop Advisor)</h4>
 
-<div style="padding-bottom: 10px;"></div>
-
-<h2> Advisor </h2>
-<div style="padding-top: 10px;"></div>
-<h4> Tal Rabin </h4>
 
