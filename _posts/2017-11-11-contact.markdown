@@ -22,6 +22,6 @@ permalink: /contact.html
 <h4> Aarushi Goel (NTT Research)</h4>
 <h4> Mingyuan Wang (UC Berkeley)</h4>
 <h4> Arka Rai Choudhuri (NTT Research)</h4>
-<h4> Tal Rabin (University of Pennsylvania and Algorand Foundation), Workshop Advisor)</h4>
+<h4> Tal Rabin (University of Pennsylvania and Algorand Foundation), Workshop Advisor</h4>
 
 
