@@ -19,7 +19,7 @@ permalink: /contact.html
 <h2> Organizers </h2>
 <div style="padding-top: 10px;"></div>
 <div style="aarushi"> <p><span>This text is left aligned</span>
-  <span>This text is right aligned</span><p></div>
+  <span>This text is right aligned</span></p></div>
 <h4> Sruthi Sekar (UC Berkley)</h4>
 <h4> Aarushi Goel (NTT Research)</h4>
 <h4> Mingyuan Wang (UC Berkeley)</h4>
