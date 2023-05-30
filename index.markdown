@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EWCA &#58; Empowering Women in Cryptography with Allies
+title: RISE &#58; Research Insights and Stories for Enlightenment
 ---
 
 
