@@ -19,10 +19,10 @@ permalink: /contact.html
 <h2> Organizers </h2>
 <div style="padding-top: 10px;"></div>
  <div class="contact-container">
-    <div class="contact-item"><h4><span style="color:#8d7698">Sruthi Sekar<\span></h4><h4>UC Berkeley</h4></div>
-    <div class="contact-item"><h4><span style="color:#8d7698">Aarushi Goel<\span></h4><h4>NTT Research</h4></div>
-    <div class="contact-item"><h4><span style="color:#8d7698">Mingyuan Wang<\span></h4><h4>UC Berkeley</h4></div>
-    <div class="contact-item"><h4><span style="color:#8d7698">Arka Rai Choudhuri<\span></h4><h4>NTT Research</h4></div>
+    <div class="contact-item">ashd</div>
+    <div class="contact-item">fhjshj</div>
+    <div class="contact-item">hwrjfhjw</div>
+    <div class="contact-item">wkrfgg</div>
   </div>
 <h4> Sruthi Sekar (UC Berkley)</h4>
 <h4> Aarushi Goel (NTT Research)</h4>
