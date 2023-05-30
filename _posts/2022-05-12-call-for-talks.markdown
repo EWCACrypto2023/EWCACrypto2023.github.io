@@ -10,9 +10,9 @@ permalink: /callForTalks.html
 
 <div style="padding-top: 60px;"></div>
 
-Details will be available closer to the event.
+Please fill out this form if you want to give a short talk (5 or 10 mins, TBD) on either your published or ongoing work. Those who are not presenting at CRYPTO are encouraged to take this opportunity to talk about your research.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7psXVVGNtUW_7TwpFum_tPwmuzwDlooA4mbQsv8Sqzgabxg/viewform?embedded=true" width="800" height="1375" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe margin-left="auto", margin-right="auto", src="https://docs.google.com/forms/d/e/1FAIpQLSc7psXVVGNtUW_7TwpFum_tPwmuzwDlooA4mbQsv8Sqzgabxg/viewform?embedded=true" width="80%" height="1375" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 <div style="padding-bottom: 60px;"></div>
