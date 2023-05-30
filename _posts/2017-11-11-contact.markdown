@@ -22,7 +22,7 @@ permalink: /contact.html
 	<h4 style="color:#8d7698">rise [DOT] crypto2023 [AT] gmail [DOT] com</h4> 
 </center></p>
   
-<h2> Workshop Advisor </h2>
+<h2> Event Advisor </h2>
 <div style="padding-top: 10px;"></div>
 <h4 style="color:#8d7698">Tal Rabin</h4><h4>University of Pennsylvania and Algorand Foundation</h4>
 
