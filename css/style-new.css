@@ -33,7 +33,7 @@ body {
 .site {
 background-color: #fcfcff;    
 display: grid;
-max-width: 90%;
+max-width: 100%;
 margin-right: auto;
 margin-left: auto;
 grid-gap: 0px 10px;
