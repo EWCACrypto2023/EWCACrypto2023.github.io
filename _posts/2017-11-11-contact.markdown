@@ -24,6 +24,12 @@ permalink: /contact.html
     <div class="contact-item">hwrjfhjw</div>
     <div class="contact-item">wkrfgg</div>
   </div>
+  <div class="contact-container">
+    <div class="contact-item"><h4 style="color:#8d7698">Sruthi Sekar</h4><h4>UC Berkeley</h4></div>
+    <div class="contact-item"><h4 style="color:#8d7698">Aarushi Goel</h4><h4>NTT Research</h4></div>
+    <div class="contact-item"><h4 style="color:#8d7698">Mingyuan Wang</h4><h4>UC Berkeley</h4></div>
+    <div class="contact-item"><h4 style="color:#8d7698">Arka Rai Choudhuri</h4><h4>NTT Research</h4></div>
+  </div>
 <h4> Sruthi Sekar (UC Berkley)</h4>
 <h4> Aarushi Goel (NTT Research)</h4>
 <h4> Mingyuan Wang (UC Berkeley)</h4>
