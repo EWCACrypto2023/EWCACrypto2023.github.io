@@ -829,5 +829,17 @@ ul {
       margin-top: 10px;
       text-align: center;
       font-family: Arial, sans-serif;
-      font-size: 12px;
+      font-size: 20px;
+    }
+
+     .contact-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 10px;
+    }
+
+    .contact-item {
+      
+      padding: 10px;
+      text-align: center;
     }
