@@ -31,7 +31,7 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
     </div>
 
     <div class="circle">
-      <img src="image3.jpg" alt="Image 3">
+      <img src="./images/lunch.png" alt="Image 3">
       <div class="text"><h4 style="color:#8d7698"> Mentorship Lunch</h4><p>We will get a few senior researchers to sign up for meeting a small group of junior researchers during the lunch hours at CRYPTO. We will be circulating an excel sheet amongst all attendees closer to the conference. Please sign up if you are interested!</p>
 </div>
     </div>
