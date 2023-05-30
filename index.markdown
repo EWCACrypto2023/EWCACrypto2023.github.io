@@ -26,7 +26,7 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
 
     <div class="circle">
       <img src="./images/podium.png" alt="Image 2">
-      <div class="text"><h4 style="color:#8d7698"> StorySLAM</h4><p>This will be a 2 hour inclusive event, where several junior and senior cryptographers share personal stories highlighting pivotal moments, challenges, triumphs, and lessons from their research journey. With this event our aim is to initiate a wholesome discussion on diverse topics through a wide-spectrum of stories that would be inspiring, and thought-provoking for young researchers. See our <a href="https://ewcacrypto2023.github.io/storySLAM.html"> Call for storySLAM</a> if you are interested in sharing your story.</p>
+      <div class="text"><h4 style="color:#8d7698"> StorySLAM</h4><p>This will be a 2 hour gender-inclusive event, where several junior and senior cryptographers share personal stories highlighting pivotal moments, challenges, triumphs, and lessons from their research journey. With this event our aim is to initiate a wholesome discussion on diverse topics through a wide-spectrum of stories that would be inspiring, and thought-provoking for young researchers. See our <a href="https://ewcacrypto2023.github.io/storySLAM.html"> Call for storySLAM</a> if you are interested in sharing your story.</p>
 </div>
     </div>
 
