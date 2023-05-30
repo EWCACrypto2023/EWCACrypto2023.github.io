@@ -18,7 +18,6 @@ permalink: /contact.html
     <div class="contact-item"><h4 style="color:#8d7698">Mingyuan Wang</h4><h4>UC Berkeley</h4></div>
     <div class="contact-item"><h4 style="color:#8d7698">Arka Rai Choudhuri</h4><h4>NTT Research</h4></div>
   </div>
-  <div style="padding-top: 10px;"></div>
   <p><center>
 	<h4 style="color:#8d7698">rise [DOT] crypto2023 [AT] gmail [DOT] com</h4> 
 </center></p>
