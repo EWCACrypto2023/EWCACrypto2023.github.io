@@ -6,7 +6,7 @@ categories: callForTalks
 permalink: /callForTalks.html
 ---
 
-<h2>Program</h2>
+<h2>Call for Lightning Talks</h2>
 
 <div style="padding-top: 60px;"></div>
 
