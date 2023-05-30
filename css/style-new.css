@@ -662,11 +662,13 @@ p.readmore a:hover {
     overflow: hidden;
 }
 
-.aarushi p{
-	display: flex;
-  	justify-content: space-between;
+.left{
+	float: left;
 }
-	
+
+.right{
+	float: right;
+}
 
 
 #name {
