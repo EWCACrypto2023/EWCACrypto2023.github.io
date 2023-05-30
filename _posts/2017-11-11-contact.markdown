@@ -6,13 +6,6 @@ categories: contact
 permalink: /contact.html
 ---
 
-<h2>Contact</h2>
-<div style="padding-top: 10px;"></div>
-
-
-<p><center>
-	<h4 style="color:#8d7698">ewca [DOT] crypto2023 [AT] gmail [DOT] com</h4> 
-</center></p>
 
 <div style="padding-bottom: 5px;"></div>
 
