@@ -12,7 +12,7 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
 
 
 
-<div style="padding-top: 40px;"></div>
+<div style="padding-top: 60px;"></div>
 
 
 
