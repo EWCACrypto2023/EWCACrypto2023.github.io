@@ -12,5 +12,7 @@ permalink: /callForTalks.html
 
 Details will be available closer to the event.
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7psXVVGNtUW_7TwpFum_tPwmuzwDlooA4mbQsv8Sqzgabxg/viewform?embedded=true" width="640" height="1375" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 <div style="padding-bottom: 60px;"></div>
