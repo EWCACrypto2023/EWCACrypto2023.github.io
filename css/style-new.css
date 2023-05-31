@@ -33,7 +33,7 @@ body {
 .site {
 background-color: #fcfcff;    
 display: grid;
-max-width: 100%;
+max-width: 80%;
 margin-right: auto;
 margin-left: auto;
 grid-gap: 0px 10px;
@@ -212,7 +212,7 @@ p {
     .site {
     background-color: #fcfcff;    
     display: grid;
-    max-width: 100%;
+    max-width: 80%;
     margin-right: auto;
     margin-left: auto;
     grid-gap: 0px 10px;
@@ -321,7 +321,7 @@ p {
     .site {
     background-color: #fcfcff;    
     display: grid;
-    max-width: 100%;
+    max-width: 80%;
     margin-right: auto;
     margin-left: auto;
     grid-gap: 0px 10px;
