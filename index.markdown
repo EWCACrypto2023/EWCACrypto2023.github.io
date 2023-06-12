@@ -45,7 +45,7 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
 
 <h2> Event Sponsor </h2>
 
-<img src="./images/hyperledgerfoundation_horizontal-dark.svg" alt="Hyperledger Fourndation">
+<img src="./images/hyperledgerfoundation_horizontal-dark.svg" style="width: 50%; height: auto;" alt="Hyperledger Fourndation">
 
 
 <div style="padding-top: 150px;"></div>
