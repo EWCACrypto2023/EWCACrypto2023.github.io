@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Program"
+title:  "StorySLAM Speakers"
 date:   2023-05-06 09:51:46 -0400
 categories: program
 permalink: /program.html
