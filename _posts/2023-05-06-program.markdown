@@ -26,7 +26,7 @@ permalink: /program.html
     <div class="speakers-name"><h4 style="color:#8d7698">Francisco Rodrigues</h4></div>
     <div class="speakers-name"><h4 style="color:#8d7698">Amit Sahai</h4></div>
     <div class="speakers-name"><h4 style="color:#8d7698">Sruthi Sekar</h4></div>
-    <div class="speakers-name"> </div>
+    
   </div>
 
 
