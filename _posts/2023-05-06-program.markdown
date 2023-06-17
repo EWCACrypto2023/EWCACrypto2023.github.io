@@ -12,21 +12,21 @@ permalink: /program.html
 <div style="padding-top: 10px;"></div>
 
  <div class="speakers-grid-container">
-    <div class="speakers-name"><h4 style="color:#8d7698">Name 1</h4></div>
-    <div class="speakers-name">Name 2</div>
-    <div class="speakers-name">Name 3</div>
-    <div class="speakers-name">Name 4</div>
-    <div class="speakers-name">Name 5</div>
-    <div class="speakers-name">Name 6</div>
-    <div class="speakers-name">Name 7</div>
-    <div class="speakers-name">Name 8</div>
-    <div class="speakers-name">Name 9</div>
-    <div class="speakers-name">Name 10</div>
-    <div class="speakers-name">Name 11</div>
-    <div class="speakers-name">Name 12</div>
-    <div class="speakers-name">Name 13</div>
-    <div class="speakers-name">Name 14</div>
-    <div class="speakers-name">Name 15</div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Allison Bishop</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Suvradip Chakraborty</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Chitchanok Chuengsatiansup</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Ran Cohen</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Henry Corrigan-Gibbs</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Sofia Celi</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Matthew Green</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Anna Lysanskaya</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Guilio Malavolta</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Antigoni Polychroniadou</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Tal Rabin</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Francisco Rodrigues</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Amit Sahai</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Sruthi Sekar</h4></div>
+    <div class="speakers-name"> </div>
   </div>
 
 <iframe src="" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
