@@ -844,8 +844,8 @@ ul {
 
 .speakers-grid-container {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      grid-template-rows: repeat(5, 1fr);
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(7, 1fr);
       gap: 10px;
       justify-items: center;
     }
@@ -853,6 +853,6 @@ ul {
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 150px;
+      width: 250px;
       height: 50px;
     }
