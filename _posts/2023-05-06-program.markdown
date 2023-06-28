@@ -25,9 +25,11 @@ permalink: /program.html
     <div class="speakers-name"><h4 style="color:#8d7698">Tal Rabin</h4></div>
     <div class="speakers-name"><h4 style="color:#8d7698">Francisco Rodrigues</h4></div>
     <div class="speakers-name"><h4 style="color:#8d7698">Amit Sahai</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Sruthi Sekar</h4></div>
+    <div class="speakers-name"><h4 style="color:#8d7698">Marilyn George</h4></div>
     
   </div>
+
+  The program will be updated shortly. 
 
 
 <iframe src="" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
