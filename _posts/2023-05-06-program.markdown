@@ -11,25 +11,79 @@ permalink: /program.html
 
 <div style="padding-top: 20px;"></div>
 
- <div class="speakers-grid-container">
-    <div class="speakers-name"><h4 style="color:#8d7698">Allison Bishop</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Suvradip Chakraborty</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Chitchanok Chuengsatiansup</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Ran Cohen</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Henry Corrigan-Gibbs</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Sofia Celi</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Matthew Green</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Anna Lysanskaya</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Guilio Malavolta</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Antigoni Polychroniadou</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Tal Rabin</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Francisco Rodrigues</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Amit Sahai</h4></div>
-    <div class="speakers-name"><h4 style="color:#8d7698">Marilyn George</h4></div>
-    
-  </div>
+ <h3>Saturday, 19th August</h3>
 
-  The program will be updated shortly. 
+
+ <table>
+    <tr>
+      <td>5.45 – 5.50 PM</td>
+      <td>Welcome and Opening Remarks</td>
+    </tr>
+    <tr>
+      <td>5.50 – 5.56 PM</td>
+      <td>Alison Bishop</td>
+    </tr>
+    <tr>
+      <td>5.56 – 6.02 PM</td>
+      <td>Suvradip Chakraborty</td>
+    </tr>
+    <tr>
+      <td>6.02 – 6.08 PM</td>
+      <td>Chitchanok Chuengsatiansup</td>
+    </tr>
+    <tr>
+      <td>6.08 – 6.14 PM</td>
+      <td>Ran Cohen</td>
+    </tr>
+    <tr>
+      <td>6.14 – 6.20 PM</td>
+      <td>Henry Corrigan-Gibbs</td>
+    </tr>
+    <tr>
+      <td>6.20 – 6.26 PM</td>
+      <td>Sofia Celi</td>
+    </tr>
+    <tr>
+      <td>6.26 – 6.32 PM</td>
+      <td>Marilyn George</td>
+    </tr>
+    <tr>
+      <td>6.32 – 6.42 PM</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td>6.42 – 6.48 PM</td>
+      <td>Matthew Green</td>
+    </tr>
+    <tr>
+      <td>6.48 – 6.54 PM</td>
+      <td>Anna Lysanskaya</td>
+    </tr>
+    <tr>
+      <td>6.54 – 7.00 PM</td>
+      <td>Giulio Malavolta</td>
+    </tr>
+    <tr>
+      <td>7.00 – 7.06 PM</td>
+      <td>Antigoni Polychroniadou</td>
+    </tr>
+    <tr>
+      <td>7.06 – 7.12 PM</td>
+      <td>Tal Rabin</td>
+    </tr>
+    <tr>
+      <td>7.12 – 7.18 PM</td>
+      <td>Francisco Rodrigues</td>
+    </tr>
+    <tr>
+      <td>7.18 – 7.24 PM</td>
+      <td>Amit Sahai</td>
+    </tr>
+    <tr>
+      <td>7.24 – 7.30 PM</td>
+      <td>Sruthi Sekar</td>
+    </tr>
+  </table>
 
 
 <iframe src="" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
