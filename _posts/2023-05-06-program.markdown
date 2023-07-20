@@ -47,7 +47,7 @@ permalink: /program.html
       <td>6.26 – 6.32 PM</td>
       <td>Marilyn George</td>
     </tr>
-    <tr>
+    <tr style="background-color:#ff6961;">
       <td>6.32 – 6.42 PM</td>
       <td>Break</td>
     </tr>
