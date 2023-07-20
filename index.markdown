@@ -20,7 +20,7 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
  <div class="circle-container">
     <div class="circle">
       <img src="./images/lightening-2.png" alt="Image 1">
-      <div class="text"><h4 style="color:#8d7698">Lightning Talks and Social Event</h4><p>If you are a student who identifies as a woman and wish to present your published or ongoing research to your peers, this event is for you. We will start with some technical lightning talks (see our <a href="https://ewcacrypto2023.github.io/callForTalks.html"> Call for Lightning Talks</a>). Towards the end we will have fun social activities. Join us to connect and hangout with your peers!</p>
+      <div class="text"><h4 style="color:#8d7698">Social Event</h4><p>We will have fun social activities. Join us to connect and hangout with your peers!</p>
 </div>
     </div>
 
