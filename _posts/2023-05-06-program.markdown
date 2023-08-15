@@ -21,7 +21,7 @@ permalink: /program.html
     </tr>
     <tr>
       <td>5.50 – 5.56 PM</td>
-      <td>Alison Bishop</td>
+      <td>Allison Bishop</td>
     </tr>
     <tr>
       <td>5.56 – 6.02 PM</td>
@@ -57,7 +57,7 @@ permalink: /program.html
     </tr>
     <tr>
       <td>6.48 – 6.54 PM</td>
-      <td>Anna Lysanskaya</td>
+      <td>Anna Lysyanskaya</td>
     </tr>
     <tr>
       <td>6.54 – 7.00 PM</td>
