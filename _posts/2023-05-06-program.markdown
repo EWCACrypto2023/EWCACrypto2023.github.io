@@ -51,12 +51,8 @@ permalink: /program.html
       <td>Anna Lysyanskaya</td>
     </tr>
     <tr style="background-color:#fedcda;">
-      <td>6.39 – 6.50 PM</td>
+      <td>6.39 – 6.57 PM</td>
       <td>Break</td>
-    </tr>
-    <tr>
-      <td>6.50 – 6.57 PM</td>
-      <td>Matthew Green</td>
     </tr>
     <tr>
       <td>6.57 – 7.04 PM</td>
