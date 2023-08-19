@@ -8,7 +8,11 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
 
 
 
-
+<div class="announce">
+	<p>
+	Mentoship Lunch: Kindly fill out the following excel sheet to indicate which table you want to be seated at. Since we only have slots for 6 students per table and limited tables on each day, we recommend you to sign up as soon as possible. Please refrain from filling out your name more than once to give all students a chance.  <a href="https://docs.google.com/spreadsheets/d/1LwsQ8-gHMZKN1ABzRadgauvGVWFGi2vfD2SFXtEpshs/edit?usp=sharing" style="color:crimson;">here</a>.
+	</p>
+</div>	
 
 
 
