@@ -10,9 +10,11 @@ permalink: /mentorLunch.html
 
 <div style="padding-top: 60px;"></div>
 
-Similar to STOC/FOCS, we will have junior/senior lunch meet-ups Monday to Thursday during the conference. The goal is to give opportunities to young researchers in our field to interact with senior researchers. 
+Similar to STOC/FOCS, we will have junior/senior lunch meet-ups Monday to Wednesday during the conference. The goal is to give opportunities to young researchers in our field to interact with senior researchers. 
 
-List of senior researchers, and a sign up sheet will be made available a few weeks before the event. 
+If you are a student and are interested, kindly fill out the following excel sheet to indicate which table you want to be seated at. Since we only have slots for 6 students per table and limited tables on each day, we recommend you to sign up as soon as possible. Please refrain from filling out your name more than once to give all students a chance.
+https://docs.google.com/spreadsheets/d/1LwsQ8-gHMZKN1ABzRadgauvGVWFGi2vfD2SFXtEpshs/edit?usp=sharing
+
 
 <iframe src="" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
