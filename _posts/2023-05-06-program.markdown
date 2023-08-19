@@ -11,7 +11,8 @@ permalink: /program.html
 
 <div style="padding-top: 20px;"></div>
 
- <h3>Saturday, 19th August</h3>
+ <h3>Saturday, 19th August </h3>
+  <h4> Venue: Corwin West</h4>
 
 
  <table>
