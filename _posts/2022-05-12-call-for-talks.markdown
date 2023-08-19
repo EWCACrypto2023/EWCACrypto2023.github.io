@@ -10,6 +10,11 @@ permalink: /socialEvent.html
 
 <div style="padding-top: 60px;"></div>
 
+ <h3>Sunday, 20th August </h3>
+  <h4> Venue: Corwin East</h4>
+
+  <div style="padding-top: 10px;"></div>
+
 We will host an ice-breaking event for students from <b> 2.10PM to 3.25 PM on Sunday 20th August </b>. 
 
 Location details will be updated when available. 
