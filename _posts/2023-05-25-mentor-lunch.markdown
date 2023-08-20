@@ -10,10 +10,16 @@ permalink: /mentorLunch.html
 
 <div style="padding-top: 60px;"></div>
 
-Similar to STOC/FOCS, we will have junior/senior lunch meet-ups Monday to Wednesday during the conference. The goal is to give opportunities to young researchers in our field to interact with senior researchers. 
-
-If you are a student and are interested, kindly fill out the following excel sheet to indicate which table you want to be seated at. Since we only have slots for 6 students per table and limited tables on each day, we recommend you to sign up as soon as possible. Please refrain from filling out your name more than once to give all students a chance.
-[https://docs.google.com/spreadsheets/d/1LwsQ8-gHMZKN1ABzRadgauvGVWFGi2vfD2SFXtEpshs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LwsQ8-gHMZKN1ABzRadgauvGVWFGi2vfD2SFXtEpshs/edit?usp=sharing)
+<h3>Mentorship Lunch</h3>
+<div class="announce">
+	<p>
+This year we are introducing mentorship lunches. This is an opportunity for students to have lunch (in groups of 8), and interact with 2 senior cryptographers. This is intended to be an informal conversation that is not research oriented. The linked spreadsheet has the table assignments. Each table has 6 spots for students. If you're interested in participating, please sign up on the <a href="https://docs.google.com/spreadsheets/d/1LwsQ8-gHMZKN1ABzRadgauvGVWFGi2vfD2SFXtEpshs/edit?usp=sharing" style="color:crimson;">sheet</a>. <br><br>
+		
+		Since we only have slots for 6 students per table and limited tables on each day, we recommend you to sign up as soon as possible. Please refrain from filling out your name more than two times to give everyone a chance.  <br><br>
+		
+		If you sign up, please meet one of the organizers outside the dining hall at 12:25PM if you have signed up on Monday and Wednesday, and 12:40PM on Tuesday. 
+	</p>
+</div>	
 
 
 
