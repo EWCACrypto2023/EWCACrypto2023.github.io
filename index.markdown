@@ -7,7 +7,7 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
 <div style="padding-top: 30px;"></div>
 
 
-<h3>Mentorship Lunch</h3>
+
 <div class="announce">
 
 <p>
