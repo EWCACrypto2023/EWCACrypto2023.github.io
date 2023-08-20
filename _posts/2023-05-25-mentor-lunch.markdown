@@ -25,7 +25,7 @@ This year we are introducing mentorship lunches. This is an opportunity for stud
 <div style="padding-top: 10px;"></div>
 <center>
 <ul>
-        <li><h4 style="color:#8d7698">Prabhanjan Ananth</h4>, <h4>UCSB</h4></li>
+        <li><h4 style="color:#8d7698">Prabhanjan Ananth, UCSB</h4></li>
         <li>Allison Bishop, Proof Trading and City College, CUNY</li>
         <li>Nir Bitansky, Tel Aviv University</li>
         <li>Dan Boneh, Stanford University</li>
