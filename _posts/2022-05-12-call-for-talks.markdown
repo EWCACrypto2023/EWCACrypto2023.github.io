@@ -17,7 +17,7 @@ permalink: /socialEvent.html
 
 We will host an ice-breaking event for students from <b> 2.10PM to 3.25 PM on Sunday 20th August </b>. 
 
-Location details will be updated when available. 
+
 
 
 <div style="padding-bottom: 60px;"></div>
