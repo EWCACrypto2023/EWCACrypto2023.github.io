@@ -21,25 +21,25 @@ This year we are introducing mentorship lunches. This is an opportunity for stud
 </div>	
 
 <h3>Mentor List</h3>
-
+<center>
 <ul>
-        <li>Prabhanjan Ananth</li>
-        <li>Allison Bishop</li>
-        <li>Nir Bitansky</li>
-        <li>Dan Boneh</li>
-        <li>Henry Corrigan-Gibbs</li>
-        <li>Chitchanok Chuengsatiansup</li>
-        <li>Ran Cohen</li>
-        <li>Matthew Green</li>
-        <li>Abhishek Jain</li>
-        <li>Hugo Krawczyk</li>
-        <li>Anna Lysyanskaya</li>
-        <li>Giulio Malavolta</li>
-        <li>Antigoni Polychroniadou</li>
-        <li>Tal Rabin</li>
-        <li>Francisco Rodrigues</li>
+        <li>Prabhanjan Ananth, UCSB</li>
+        <li>Allison Bishop, Proof Trading and City College, CUNY</li>
+        <li>Nir Bitansky, Tel Aviv University</li>
+        <li>Dan Boneh, Stanford University</li>
+        <li>Henry Corrigan-Gibbs, MIT</li>
+        <li>Chitchanok Chuengsatiansup, University of Melbourne</li>
+        <li>Ran Cohen, Reichman University</li>
+        <li>Matthew Green, Johns Hopkins University</li>
+        <li>Abhishek Jain, Johns Hopkins University and NTT Research</li>
+        <li>Hugo Krawczyk, AWS</li>
+        <li>Anna Lysyanskaya, Brown University</li>
+        <li>Giulio Malavolta, Bocconi University</li>
+        <li>Antigoni Polychroniadou, JP Morgan AI Research</li>
+        <li>Tal Rabin, AWS and University of Pennsylvania</li>
+        <li>Francisco Rodrigues, TII</li>
     </ul>
-
+</center>
 
 <iframe src="" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
