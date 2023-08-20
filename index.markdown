@@ -10,7 +10,7 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
 
 
 <p>
-	RISE (Research Insights and Stories for Enlightenment) is an affiliated event at CRYPTO 2023. The aim of RISE is to provide a fun, as well as thought-provoking, experience for everyone by organizing activities that transcend the traditional boundaries of research-centric events. We wish to initiate a wholesome discussion amongst the attendees at CRYPTO on diverse topics through a wide spectrum of stories spread across two of our events – <a href="https://ewcacrypto2023.github.io/program.html" style="color:crimson;">storySLAM. </a>  and <a href="https://ewcacrypto2023.github.io/mentorLunch.html" style="color:crimson;">mentorship lunches. </a> <br><br>
+	RISE (Research Insights and Stories for Enlightenment) is an affiliated event at CRYPTO 2023. The aim of RISE is to provide a fun, as well as thought-provoking experience for everyone, by organizing activities that transcend the traditional boundaries of research-centric events. We wish to initiate a wholesome discussion amongst the attendees at CRYPTO on diverse topics through a wide spectrum of stories spread across two of our events – <a href="https://ewcacrypto2023.github.io/program.html" style="color:crimson;">storySLAM. </a>  and <a href="https://ewcacrypto2023.github.io/mentorLunch.html" style="color:crimson;">mentorship lunches. </a> <br><br>
 	
 Through these events, we hope to highlight the stories of fellow cryptographers who have gone through similar experiences, showing participants that their own journey has common elements with others who have succeeded. In a friendly atmosphere that fosters a broader community amongst cryptographers, we hope to create an informal space where young cryptographers can connect with our mentors. It recognizes the common worries that often make it hard to approach new people. By making these connections possible, RISE shows that talking to like-minded people can be beneficial. It encourages everyone that taking the step to connect is an important part of growing and learning.
 
@@ -33,13 +33,13 @@ Through these events, we hope to highlight the stories of fellow cryptographers 
     </div>
 
     <div class="circle">
-      <img src="./images/podium.png" alt="Image 2">
-      <div class="text"><h4 style="color:#8d7698"> StorySLAM</h4><p>This will be a 2 hour gender-inclusive event, where several junior and senior cryptographers share personal stories highlighting pivotal moments, challenges, triumphs, and lessons from their research journey. With this event our aim is to initiate a wholesome discussion on diverse topics through a wide-spectrum of stories that would be inspiring, and thought-provoking for young researchers. </p>
+      <a href="https://ewcacrypto2023.github.io/program.html"><img src="./images/podium.png" alt="Image 2"></a>
+      <div class="text"><h4 style="color:#8d7698"> StorySLAM</h4><p>This will be a 2 hour event, where several junior and senior cryptographers share personal stories highlighting pivotal moments, challenges, triumphs, and lessons from their research journey. With this event our aim is to initiate a wholesome discussion on diverse topics through a wide-spectrum of stories that would be inspiring, and thought-provoking for young researchers. </p>
 </div>
     </div>
 
     <div class="circle">
-      <img src="./images/lunch.png" alt="Image 3">
+      <a href="https://ewcacrypto2023.github.io/mentorLunch.html"><img src="./images/lunch.png" alt="Image 3"></a>
       <div class="text"><h4 style="color:#8d7698"> Mentorship Lunch</h4><p>We will get a few senior researchers to sign up for meeting a small group of junior researchers during the lunch hours at CRYPTO. We will be circulating an excel sheet amongst all attendees closer to the conference. Please sign up if you are interested!</p>
 </div>
     </div>
