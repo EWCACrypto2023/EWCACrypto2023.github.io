@@ -16,7 +16,7 @@ This year we are introducing mentorship lunches. This is an opportunity for stud
 		
 		Since we only have slots for 6 students per table and limited tables on each day, we recommend you to sign up as soon as possible. Please refrain from filling out your name more than two times to give everyone a chance.  <br><br>
 		
-		If you sign up, please meet one of the organizers outside the dining hall at 12:25PM if you have signed up on Monday and Wednesday, and 12:40PM on Tuesday. 
+		On Monday and Wednesday please meet one of the RISE organizers outside the main entrance of De La Guerra (the dining hall) at 12.25 PM. For Tuesday please meet one of the RISE organizers at the same location at 12.40 PM.
 	</p>
 </div>	
 
