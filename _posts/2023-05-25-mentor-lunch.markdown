@@ -20,7 +20,9 @@ This year we are introducing mentorship lunches. This is an opportunity for stud
 	</p>
 </div>	
 
+<div style="padding-top: 30px;"></div>
 <h3>Mentor List</h3>
+<div style="padding-top: 10px;"></div>
 <center>
 <ul>
         <li>Prabhanjan Ananth, UCSB</li>
