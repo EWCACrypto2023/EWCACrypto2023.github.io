@@ -9,13 +9,14 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
 
 <h3>Mentorship Lunch</h3>
 <div class="announce">
-	<p>
-This year we are introducing mentorship lunches. This is an opportunity for students to have lunch (in groups of 8), and interact with 2 senior cryptographers. This is intended to be an informal conversation that is not research oriented. The linked spreadsheet has the table assignments. Each table has 6 spots for students. If you're interested in participating, please sign up on the <a href="https://docs.google.com/spreadsheets/d/1LwsQ8-gHMZKN1ABzRadgauvGVWFGi2vfD2SFXtEpshs/edit?usp=sharing" style="color:crimson;">sheet</a>. <br><br>
-		
-		Since we only have slots for 6 students per table and limited tables on each day, we recommend you to sign up as soon as possible. Please refrain from filling out your name more than two times to give everyone a chance.  <br><br>
-		
-		If you sign up, please meet one of the organizers outside the dining hall at 12:25PM if you have signed up on Monday and Wednesday, and 12:40PM on Tuesday. 
-	</p>
+
+<p>
+	RISE (Research Insights and Stories for Enlightenment) is an affiliated event at CRYPTO 2023. The aim of RISE is to provide a fun, as well as thought-provoking, experience for everyone by organizing activities that transcend the traditional boundaries of research-centric events. We wish to initiate a wholesome discussion amongst the attendees at CRYPTO on diverse topics through a wide spectrum of stories spread across two of our events – storySLAM and <a href="https://ewcacrypto2023.github.io/mentorLunch.html" style="color:crimson;">mentorship lunches. </a> <br><br>
+	
+Through these events, we hope to highlight the stories of fellow cryptographers who have gone through similar experiences, showing participants that their own journey has common elements with others who have succeeded. In a friendly atmosphere that fosters a broader community amongst cryptographers, we hope to create an informal space where young cryptographers can connect with our mentors. It recognizes the common worries that often make it hard to approach new people. By making these connections possible, RISE shows that talking to like-minded people can be beneficial. It encourages everyone that taking the step to connect is an important part of growing and learning.
+
+</p>
+
 </div>	
 
 
