@@ -8,16 +8,15 @@ title: RISE &#58; Research Insights and Stories for Enlightenment
 
 
 
-<div class="announce">
 
 <p>
-	RISE (Research Insights and Stories for Enlightenment) is an affiliated event at CRYPTO 2023. The aim of RISE is to provide a fun, as well as thought-provoking, experience for everyone by organizing activities that transcend the traditional boundaries of research-centric events. We wish to initiate a wholesome discussion amongst the attendees at CRYPTO on diverse topics through a wide spectrum of stories spread across two of our events – storySLAM and <a href="https://ewcacrypto2023.github.io/mentorLunch.html" style="color:crimson;">mentorship lunches. </a> <br><br>
+	RISE (Research Insights and Stories for Enlightenment) is an affiliated event at CRYPTO 2023. The aim of RISE is to provide a fun, as well as thought-provoking, experience for everyone by organizing activities that transcend the traditional boundaries of research-centric events. We wish to initiate a wholesome discussion amongst the attendees at CRYPTO on diverse topics through a wide spectrum of stories spread across two of our events – <a href="https://ewcacrypto2023.github.io/program.html" style="color:crimson;">storySLAM. </a>  and <a href="https://ewcacrypto2023.github.io/mentorLunch.html" style="color:crimson;">mentorship lunches. </a> <br><br>
 	
 Through these events, we hope to highlight the stories of fellow cryptographers who have gone through similar experiences, showing participants that their own journey has common elements with others who have succeeded. In a friendly atmosphere that fosters a broader community amongst cryptographers, we hope to create an informal space where young cryptographers can connect with our mentors. It recognizes the common worries that often make it hard to approach new people. By making these connections possible, RISE shows that talking to like-minded people can be beneficial. It encourages everyone that taking the step to connect is an important part of growing and learning.
 
 </p>
 
-</div>	
+
 
 
 
