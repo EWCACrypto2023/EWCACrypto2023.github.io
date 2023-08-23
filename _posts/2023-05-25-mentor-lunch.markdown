@@ -28,11 +28,11 @@ This year we are introducing mentorship lunches. This is an opportunity for stud
         <li><h4 style="color:#8d7698">Prabhanjan Ananth, UCSB</h4></li>
         <li><h4 style="color:#8d7698">Allison Bishop, Proof Trading and City College, CUNY</h4></li>
         <li><h4 style="color:#8d7698">Nir Bitansky, Tel Aviv University</h4></li>
+	<li><h4 style="color:#8d7698">Zvika Brakerski, Weizmann Institute of Science</h4></li>
         <li><h4 style="color:#8d7698">Dan Boneh, Stanford University</h4></li>
         <li><h4 style="color:#8d7698">Henry Corrigan-Gibbs, MIT</h4></li>
         <li><h4 style="color:#8d7698">Chitchanok Chuengsatiansup, University of Melbourne</h4></li>
         <li><h4 style="color:#8d7698">Ran Cohen, Reichman University</h4></li>
-        <li><h4 style="color:#8d7698">Matthew Green, Johns Hopkins University</h4></li>
         <li><h4 style="color:#8d7698">Abhishek Jain, Johns Hopkins University and NTT Research</h4></li>
         <li><h4 style="color:#8d7698">Hugo Krawczyk, AWS</h4></li>
         <li><h4 style="color:#8d7698">Anna Lysyanskaya, Brown University</h4></li>
